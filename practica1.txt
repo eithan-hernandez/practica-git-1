@@ -1,0 +1,12 @@
+1- actualizar a main
+2- crear una rama master desde main sin cambios nuevos
+3- crear una rama "metodosCPP" desde main y agregar 2 archivos a la rama
+4- subir los cambios a metodosCPP
+5- cambiarse a main de nuevo
+6- crear rama "metodosPY" y crear 1 archivo a la rama
+7- actualizar la rama metodosPY
+
+8- ir a la interfaz y crear un pull request de metodosCPP a main
+9- pull request de metodosPY a main
+
+10- crear rama develop desde main con todos los cambios anteriores
