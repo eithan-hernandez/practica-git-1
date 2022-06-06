@@ -10,3 +10,9 @@
 9- pull request de metodosPY a main
 
 10- crear rama develop desde main con todos los cambios anteriores
+
+links:
+https://rogerdudler.github.io/git-guide/index.es.html
+https://phoenixnap.com/kb/how-git-works
+https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
